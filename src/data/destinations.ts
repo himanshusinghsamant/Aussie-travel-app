@@ -28,11 +28,11 @@ export const destinations: Destination[] = [
     title: "Tropical Paradise Retreat",
     description: "Escape to pristine beaches with crystal-clear waters and luxury resorts.",
     fullDescription: "Experience the ultimate tropical getaway in this stunning paradise featuring pristine white sand beaches, crystal-clear turquoise waters, and world-class luxury resorts. Enjoy snorkeling, diving, spa treatments, and gourmet dining while surrounded by breathtaking natural beauty.",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+    image: "/img1.jpeg",
     images: [
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop"
+      "/img1.jpeg",
+      "/img2.jpeg",
+      "/img3.jpeg"
     ],
     price: 1299,
     rating: 4.8,
@@ -62,11 +62,11 @@ export const destinations: Destination[] = [
     title: "Mountain Adventure Escape",
     description: "Breathtaking mountain views with hiking trails and cozy cabins.",
     fullDescription: "Discover the majesty of towering peaks and pristine wilderness in this mountain adventure. Features include challenging hiking trails, cozy mountain cabins, wildlife viewing opportunities, and stunning vistas that will take your breath away.",
-    image: "https://images.unsplash.com/photo-1464822759844-d150065494cc?w=800&h=600&fit=crop",
+    image: "/img2.jpeg",
     images: [
-      "https://images.unsplash.com/photo-1464822759844-d150065494cc?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=600&fit=crop"
+      "/img2.jpeg",
+      "/img3.jpeg",
+      "/img4.jpeg"
     ],
     price: 899,
     rating: 4.6,
@@ -88,11 +88,11 @@ export const destinations: Destination[] = [
     title: "Historic City Discovery",
     description: "Explore ancient architecture and vibrant cultural heritage.",
     fullDescription: "Immerse yourself in centuries of history and culture in this fascinating historic city. Walk through ancient streets, visit world-renowned museums, sample local cuisine, and experience the vibrant nightlife of this cultural gem.",
-    image: "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=800&h=600&fit=crop",
+    image: "/img5.jpeg",
     images: [
-      "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1520637836862-4d197d17c2a7?w=800&h=600&fit=crop"
+      "/img5.jpeg",
+      "/img2.jpeg",
+      "/img3.jpeg"
     ],
     price: 749,
     rating: 4.7,
@@ -114,11 +114,11 @@ export const destinations: Destination[] = [
     title: "Safari Wildlife Experience",
     description: "Witness magnificent wildlife in their natural habitat.",
     fullDescription: "Embark on an unforgettable safari adventure to witness the Big Five and countless other wildlife species in their natural habitat. Stay in luxury safari lodges and enjoy guided game drives led by expert rangers.",
-    image: "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800&h=600&fit=crop",
+    image: "/img7.jpeg",
     images: [
-      "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1551750014-b7a1f6e3e725?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=800&h=600&fit=crop"
+      "/img7.jpeg",
+      "/img5.jpeg",
+      "/img6.jpeg"
     ],
     price: 2199,
     rating: 4.9,
@@ -139,11 +139,11 @@ export const destinations: Destination[] = [
     title: "Coastal Wine Country",
     description: "Sample world-class wines with stunning ocean views.",
     fullDescription: "Indulge in a sophisticated wine-tasting experience along the dramatic coastline. Visit boutique wineries, enjoy gourmet meals paired with exceptional wines, and take in breathtaking ocean views from clifftop vineyards.",
-    image: "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=800&h=600&fit=crop",
+    image: "/img8.jpeg",
     images: [
-      "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1558346648-9757f2fa4474?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?w=800&h=600&fit=crop"
+      "/img8.jpeg",
+      "/img9.jpeg",
+      "/img10.jpeg"
     ],
     price: 1599,
     rating: 4.5,
@@ -164,11 +164,11 @@ export const destinations: Destination[] = [
     title: "Desert Oasis Adventure",
     description: "Experience the magic of desert landscapes and starry nights.",
     fullDescription: "Discover the serene beauty of the desert with camel rides, luxury desert camps, and some of the clearest night skies on Earth. Experience traditional Bedouin culture and enjoy spectacular sunrises and sunsets.",
-    image: "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&h=600&fit=crop",
+    image: "/img11.jpeg",
     images: [
-      "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1485081669829-bacb8c7bb1f3?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop"
+      "/img11.jpeg",
+      "/img12.jpeg",
+      "/img13.jpeg"
     ],
     price: 999,
     rating: 4.4,
